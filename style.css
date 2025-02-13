@@ -25,7 +25,8 @@ nav {
 }
 
  li {
-    margin: 20px;
+    margin: 10px;
+    
 }
 
  a {
@@ -67,6 +68,8 @@ nav {
     }
     .nav-links.active {
         display: flex;
+        width: 20%;
+        height: 30vh;
     }
     .hamburger {
         display: block;
