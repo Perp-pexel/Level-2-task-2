@@ -71,7 +71,9 @@ nav {
     }
 
     .nav-links li {
-        padding: 15px;
+        padding: 10px;
+        margin-bottom: 30px;
+
     }
 
     .hamburger {
