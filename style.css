@@ -64,20 +64,15 @@ nav {
         left: 0;
         background-color: #333;
         width: 100%;
-        text-align: center;
+        text-align: end;
     }
     .nav-links.active {
         display: flex;
     }
-
-    /* .nav-links li {
-        margin-bottom: 200px;
-    } */
-
-    .nav-links a {
-        display: block;
-        padding: 10px;
+    .nav-links li {
+        margin: 10px 0;
     }
+    
     .hamburger {
         display: block;
     }
