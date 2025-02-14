@@ -71,7 +71,7 @@ nav {
         display: flex;
     }
     .nav-links li {
-        margin-bottom: 10px;
+        margin-bottom: 10%;
     }
 
     .nav-links a {
