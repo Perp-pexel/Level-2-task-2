@@ -70,11 +70,11 @@ nav {
     .nav-links.active {
         display: flex;
     }
-    .nav-links li {
+     li {
         margin-bottom: 10%;
     }
 
-    .nav-links a {
+     a {
         margin-bottom: 10%;
     }
     
