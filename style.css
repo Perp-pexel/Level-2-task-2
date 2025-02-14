@@ -70,13 +70,14 @@ nav {
         display: flex;
     }
 
-    .nav-links li {
+    /* .nav-links li {
         margin-bottom: 200px;
+    } */
+
+    .nav-links a {
+        display: block;
+        padding: 10px;
     }
-
-    
-    
-
     .hamburger {
         display: block;
     }
