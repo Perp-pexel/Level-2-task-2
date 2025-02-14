@@ -70,10 +70,6 @@ nav {
     .nav-links.active {
         display: flex;
     }
-
-     a {
-        margin-bottom: 50%;
-    }
     
     .hamburger {
         display: block;
