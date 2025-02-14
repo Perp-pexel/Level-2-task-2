@@ -69,8 +69,9 @@ nav {
     .nav-links.active {
         display: flex;
     }
-    .nav-links li {
+    li {
         margin-bottom: 50px;
+        line-height: 40px;
     }
     
     .hamburger {
