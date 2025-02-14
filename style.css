@@ -65,7 +65,7 @@ nav {
         background-color: #000;
         width: 100%;
         text-align: center;
-        gap: 50px;
+        column-gap: 50px;
     }
 
     .nav-links.active {
