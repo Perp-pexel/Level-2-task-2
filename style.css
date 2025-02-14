@@ -63,10 +63,9 @@ nav {
         top: 60px;
         right: 0;
         background-color: #333;
-        width: 100%;
-        height: calc(100vh - 60px);
+        width: 60%;
         text-align: center;
-        margin-bottom: 50px;
+        margin-bottom: 50%;
     }
     .nav-links.active {
         display: flex;
