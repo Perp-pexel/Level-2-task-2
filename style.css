@@ -71,11 +71,11 @@ nav {
         display: flex;
     }
     .nav-links li {
-        margin-bottom: 10px 0;
+        margin-bottom: 10px;
     }
 
     .nav-links a {
-        padding: 8px 12px;
+        margin-bottom: 10px;
     }
     
     .hamburger {
