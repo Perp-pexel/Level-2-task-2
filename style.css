@@ -70,7 +70,7 @@ nav {
         display: flex;
     }
     .nav-links li {
-        margin: 10px 0;
+        margin-bottom: 50px;
     }
     
     .hamburger {
