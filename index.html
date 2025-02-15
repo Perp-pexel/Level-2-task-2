@@ -11,11 +11,11 @@
     <nav>
         <a href="http://www.cognifyz.com" target="_blank"><img src="cognifyz-2.png" alt="logo"></a>
         <button class="hamburger" onclick="toggleMenu()">&#9776;</button>
-        <ul class="nav-links" id="navLinks">
-            <li class="navbar"><a href="#">Home</a></li>
-            <li class="navbar"><a href="#">About</a></li>
-            <li class="navbar"><a href="#">Services</a></li>
-            <li class="navbar"><a href="#">Contact</a></li>
+        <ul class="navbar" id="navbar">
+            <li class="nav-item"><a href="#">Home</a></li>
+            <li class="nav-item"><a href="#">About</a></li>
+            <li class="nav-item"><a href="#">Services</a></li>
+            <li class="nav-item"><a href="#">Contact</a></li>
         </ul>
     </nav>
     <div class="content">
@@ -24,8 +24,8 @@
     </div>
     <script>
         function toggleMenu() {
-            const navLinks = document.getElementById("navLinks");
-            navLinks.classList.toggle("active");
+            const navbar = document.getElementById("navbar");
+            navbar.classList.toggle("active");
         }
     </script>
 </body>
